@@ -1,1 +1,3 @@
 This is rainbow-dance3
+
+make a little change to dance3.txt
